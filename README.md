@@ -1,5 +1,4 @@
 <title>🎔kashif's curriculum vitae</title>
-  </head>
   <body>
     <table cellspacing="20">
       <tr>
@@ -99,4 +98,3 @@
     <h3><a href="C:\Users\xavier\Desktop\web development\html- personal site\contact details.html">Contact Info</a></h3>
 
   </body>
-</html>

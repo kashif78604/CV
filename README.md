@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>🎔kashif's curriculum vitae</title>
+<title>🎔kashif's curriculum vitae</title>
   </head>
   <body>
     <table cellspacing="20">
@@ -17,10 +13,10 @@
     </table>
     <hr size="01" noshadow color="black">
     <h3>Educational Details</h3>
-    <table border="5">
+    <table>
       <thead>
-        <th>year</th>
-        <th>courses</th>
+        <th>Year</th>
+        <th>Courses</th>
         <th>Institute Name</th>
         <th> CGPA </th>
       </thead>
